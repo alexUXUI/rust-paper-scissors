@@ -1,1 +1,0 @@
-{"rustc":11161650738512304635,"features":"[]","target":5502160143524446172,"profile":16629657789083912906,"path":1036222786711178230,"deps":[["rand v0.6.1","rand",11871060874438505883]],"local":[{"MtimeBased":[[1545881656,862446634],".fingerprint/rock_paper_scissors-eaff36b19219de71/dep-test-bin-rock_paper_scissors-eaff36b19219de71"]}],"rustflags":[],"edition":"Edition2018"}
